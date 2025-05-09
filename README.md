@@ -1,15 +1,15 @@
-# AB-Testing-for-Assessing-New-Web-Page-Impact-using-Python  
+# AB Testing for Assessing New Web Page Impact using Python  
 
 ## 📝 __Overview__  
-A/B Testing is a statistical method used to compare two versions of a product or service to determine which one performs better. It splits users randomly into two groups  * __Control Group__ sees the original version.  
+A/B Testing is a statistical method used to compare two versions of a product or service to determine which one performs better. It splits users randomly into two groups-    * __Control Group__ sees the original version.  
 * __Treatment Group__ sees the new version.
   
 This project investigates whether a newly designed landing page improves conversion rates on an e-commerce site compared to the existing page. Python has been used to explore the dataset, perform statistical analysis, and apply an independent t-test to support business decisions regarding the page rollout.  
-
-🧪 The independent t-test is applied as the primary inferential method, suitable for comparing means between two independent groups (control vs. treatment).
-🧪 The dataset is sourced from Kaggle: Ecommerce AB Testing 2022 Dataset1 by putdejudomthai. (Link: https://www.kaggle.com/datasets/putdejudomthai/ecommerce-ab-testing-2022-dataset1)
-🧪 All analyses and coding were conducted using Google Colab, a cloud-based Python environment that allows seamless integration with Google Drive and simplifies code execution and data handling. Jupyter Notebook could also be used as an alternative.  
   
+🧪 The independent t-test is applied as the primary inferential method, suitable for comparing means between two independent groups (control vs. treatment).  
+🧪 The dataset is sourced from Kaggle: Ecommerce AB Testing 2022 Dataset1 by putdejudomthai. (Link: https://www.kaggle.com/datasets/putdejudomthai/ecommerce-ab-testing-2022-dataset1)  
+🧪 All analyses and coding were conducted using Google Colab, a cloud-based Python environment that allows seamless integration with Google Drive and simplifies code execution and data handling. Jupyter Notebook could also be used as an alternative.  
+    
 💡 Other Use Cases for A/B Testing:
 * Testing email subject lines for better open rates.  
 * Comparing two app layouts to reduce user drop-off.  
