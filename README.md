@@ -1,8 +1,8 @@
 # AB Testing for Assessing New Web Page Impact using Python  
 
 ## 📝 __Overview__  
-A/B Testing is a statistical method used to compare two versions of a product or service to determine which one performs better. It splits users randomly into two groups-    * __Control Group__ sees the original version.  
-* __Treatment Group__ sees the new version.
+A/B Testing is a statistical method used to compare two versions of a product or service to determine which one performs better. It splits users randomly into two groups-  __Control Group__ sees the original version.  
+__Treatment Group__ sees the new version.
   
 This project investigates whether a newly designed landing page improves conversion rates on an e-commerce site compared to the existing page. Python has been used to explore the dataset, perform statistical analysis, and apply an independent t-test to support business decisions regarding the page rollout.  
   
